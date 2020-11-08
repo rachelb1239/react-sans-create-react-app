@@ -1,5 +1,5 @@
 {
-  "name": "leben",
+  "name": "react-sans-create-react-app",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rachelb1239/leben.git"
+    "url": "git+https://github.com/rachelb1239/react-sans-create-react-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rachelb1239/leben/issues"
+    "url": "https://github.com/rachelb1239/react-sans-create-react-app/issues"
   },
-  "homepage": "https://github.com/rachelb1239/leben#readme"
+  "homepage": "https://github.com/rachelb1239/react-sans-create-react-app#readme"
 }
